@@ -6,7 +6,7 @@
 - fftw3           计算音频波形
 
 ## 预览
-![](http://o9tnhkxww.bkt.clouddn.com/mp31.png)  
+![](https://raw.githubusercontent.com/system128cn/mp3player/master/view2.PNG)  
 
-![](http://o9tnhkxww.bkt.clouddn.com/mp32.PNG)
+![](https://raw.githubusercontent.com/system128cn/mp3player/master/view1.png)
 

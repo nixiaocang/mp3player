@@ -8,5 +8,5 @@
 ## 预览
 ![](http://o9tnhkxww.bkt.clouddn.com/mp31.png)  
 
-![](http://o9tnhkxww.bkt.clouddn.com/mp32.png)
+![](http://o9tnhkxww.bkt.clouddn.com/mp32.PNG)
 
